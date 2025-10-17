@@ -1,3 +1,3 @@
-﻿# shapey
+﻿# *Shapey*
 
-Live builds!
+Contans test builds for Shapey!
